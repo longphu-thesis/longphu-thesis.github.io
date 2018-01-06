@@ -1,2 +1,2 @@
-# longphu.github.io
+# longphu-thesis.github.io
 Long Phu Client
